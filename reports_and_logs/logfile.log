@@ -232,3 +232,62 @@
 2021-05-03 19:32:54,328 :INFO : test_accept_the_alert :Alert is being accepted
 2021-05-03 19:32:54,668 :INFO : test_hoover_me_to_see :Hoover is being performed
 2021-05-03 19:32:55,432 :INFO : test_drag_drop :Alert is being draged
+2021-05-03 20:42:37,007 :INFO : test_Student_Registration_Form :Entering the first name
+2021-05-03 20:42:37,253 :INFO : test_Student_Registration_Form :Entering the last name
+2021-05-03 20:42:37,653 :INFO : test_Student_Registration_Form :Entering the email
+2021-05-03 20:42:38,087 :INFO : test_Student_Registration_Form :Entering the mobile
+2021-05-03 20:42:38,832 :INFO : test_Student_Registration_Form :Entering the subject
+2021-05-03 20:42:39,151 :INFO : test_Student_Registration_Form :Entering the address
+2021-05-03 20:42:39,835 :INFO : test_Student_Registration_Form :Raj Mishra
+2021-05-03 20:42:39,880 :INFO : test_Student_Registration_Form :random@random.com
+2021-05-03 20:42:40,017 :INFO : test_Student_Registration_Form :Male
+2021-05-03 20:42:40,060 :INFO : test_Student_Registration_Form :7734000000
+2021-05-03 20:42:40,119 :INFO : test_Student_Registration_Form :01 January,1988
+2021-05-03 20:42:40,153 :INFO : test_Student_Registration_Form :Arts
+2021-05-03 20:42:40,179 :INFO : test_Student_Registration_Form :Sports
+2021-05-03 20:42:40,207 :INFO : test_Student_Registration_Form :img.png
+2021-05-03 20:42:40,234 :INFO : test_Student_Registration_Form :Southampton
+2021-05-03 20:42:40,263 :INFO : test_Student_Registration_Form :NCR Delhi
+2021-05-03 20:42:45,786 :INFO : test_accept_the_alert :Alert is being accepted
+2021-05-03 20:42:46,178 :INFO : test_hoover_me_to_see :Hoover is being performed
+2021-05-03 20:42:46,801 :INFO : test_drag_drop :Alert is being draged
+2021-05-04 10:53:14,279 :INFO : test_Student_Registration_Form :Entering the first name
+2021-05-04 10:53:14,519 :INFO : test_Student_Registration_Form :Entering the last name
+2021-05-04 10:53:14,834 :INFO : test_Student_Registration_Form :Entering the email
+2021-05-04 10:53:15,274 :INFO : test_Student_Registration_Form :Entering the mobile
+2021-05-04 10:53:16,965 :INFO : test_Student_Registration_Form :Entering the subject
+2021-05-04 10:53:17,862 :INFO : test_Student_Registration_Form :Entering the address
+2021-05-04 10:53:19,091 :INFO : test_Student_Registration_Form :Raj Mishra
+2021-05-04 10:53:19,409 :INFO : test_Student_Registration_Form :random@random.com
+2021-05-04 10:53:19,478 :INFO : test_Student_Registration_Form :Male
+2021-05-04 10:53:19,512 :INFO : test_Student_Registration_Form :7734000000
+2021-05-04 10:53:19,598 :INFO : test_Student_Registration_Form :01 January,1988
+2021-05-04 10:53:19,637 :INFO : test_Student_Registration_Form :Arts
+2021-05-04 10:53:19,669 :INFO : test_Student_Registration_Form :Sports
+2021-05-04 10:53:19,706 :INFO : test_Student_Registration_Form :img.png
+2021-05-04 10:53:19,749 :INFO : test_Student_Registration_Form :Southampton
+2021-05-04 10:53:19,773 :INFO : test_Student_Registration_Form :NCR Delhi
+2021-05-04 10:53:26,259 :INFO : test_accept_the_alert :Alert is being accepted
+2021-05-04 10:53:27,997 :INFO : test_hoover_me_to_see :Hoover is being performed
+2021-05-04 10:53:30,422 :INFO : test_drag_drop :Alert is being draged
+2021-05-04 10:53:37,344 :INFO : test_model_dialog :Modal is being closed
+2021-05-04 10:56:44,533 :INFO : test_Student_Registration_Form :Entering the first name
+2021-05-04 10:56:45,100 :INFO : test_Student_Registration_Form :Entering the last name
+2021-05-04 10:56:45,374 :INFO : test_Student_Registration_Form :Entering the email
+2021-05-04 10:56:46,074 :INFO : test_Student_Registration_Form :Entering the mobile
+2021-05-04 10:56:47,372 :INFO : test_Student_Registration_Form :Entering the subject
+2021-05-04 10:56:47,928 :INFO : test_Student_Registration_Form :Entering the address
+2021-05-04 10:56:49,457 :INFO : test_Student_Registration_Form :Raj Mishra
+2021-05-04 10:56:49,525 :INFO : test_Student_Registration_Form :random@random.com
+2021-05-04 10:56:49,572 :INFO : test_Student_Registration_Form :Male
+2021-05-04 10:56:49,728 :INFO : test_Student_Registration_Form :7734000000
+2021-05-04 10:56:49,764 :INFO : test_Student_Registration_Form :01 January,1988
+2021-05-04 10:56:49,799 :INFO : test_Student_Registration_Form :Arts
+2021-05-04 10:56:50,006 :INFO : test_Student_Registration_Form :Sports
+2021-05-04 10:56:50,071 :INFO : test_Student_Registration_Form :img.png
+2021-05-04 10:56:50,108 :INFO : test_Student_Registration_Form :Southampton
+2021-05-04 10:56:50,157 :INFO : test_Student_Registration_Form :NCR Delhi
+2021-05-04 10:56:57,664 :INFO : test_accept_the_alert :Alert is being accepted
+2021-05-04 10:56:59,473 :INFO : test_hoover_me_to_see :Hoover is being performed
+2021-05-04 10:57:01,653 :INFO : test_drag_drop :Alert is being draged
+2021-05-04 10:57:09,656 :INFO : test_model_dialog :Modal is being closed

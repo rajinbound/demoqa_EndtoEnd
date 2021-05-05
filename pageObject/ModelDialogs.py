@@ -10,6 +10,7 @@ class ModelDialog:
 
     small_model = (By.ID, "showSmallModal")
     large_model = (By.ID, "showLargeModal")
+    close_model = (By.ID, "closeSmallModal")
 
 
     def __init__(self, driver):
@@ -23,4 +24,8 @@ class ModelDialog:
 
     def user_large_model(self):
         return self.driver.find_element(*ModelDialog.large_model)
+
+
+    def user_close_model(self):
+        return self.driver.find_element(*ModelDialog.close_model)
 

@@ -18,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class TestDemoQA(BaseClass):
 
 
+
     def test_Student_Registration_Form(self, setup, getData):
         log = self.getLogger()
         self.driver.get("https://demoqa.com/automation-practice-form")
@@ -114,13 +115,15 @@ class TestDemoQA(BaseClass):
         action_chains.drag_and_drop(drag_item, target_item).perform()
 
 
-    #def test_model_dialog(self):
-        #log = self.getLogger()
-        #self.driver.get("https://demoqa.com/modal-dialogs")
-        #model = ModelDialog(self.driver)
-        #model.user_small_model().click()
-        #self.driver.switch_to.alert()
-        #self.driver.find_element_by_id("closeSmallModal").click
+
+    def test_model_dialog(self):
+        log = self.getLogger()
+        self.driver.get("https://demoqa.com/modal-dialogs")
+        model = ModelDialog(self.driver)
+        model.user_small_model().click()
+        time.sleep(5)
+        log.info("Modal is being closed")
+        model.user_close_model().click()
 
 
 
