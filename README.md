@@ -1,4 +1,4 @@
-**This End to End frame work is designed with Selenium, pytest and python**  
+**This End to End framework is designed with Selenium, pytest and python**  
 Frame work offer following capabilities with current implementation:  
 
 Screenshot(for each fail test case)  
